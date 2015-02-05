@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotionSimulationConsole", "MotionSimulationConsole\MotionSimulationConsole.csproj", "{79EB5457-99C6-4AA9-91F9-4DAC9D436A5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotionSimulation", "MotionSimulation\MotionSimulation.csproj", "{E252754B-01B2-4442-9572-75D62EC37A16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79EB5457-99C6-4AA9-91F9-4DAC9D436A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79EB5457-99C6-4AA9-91F9-4DAC9D436A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79EB5457-99C6-4AA9-91F9-4DAC9D436A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79EB5457-99C6-4AA9-91F9-4DAC9D436A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E252754B-01B2-4442-9572-75D62EC37A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E252754B-01B2-4442-9572-75D62EC37A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E252754B-01B2-4442-9572-75D62EC37A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E252754B-01B2-4442-9572-75D62EC37A16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
